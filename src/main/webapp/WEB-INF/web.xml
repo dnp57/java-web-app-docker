@@ -19,7 +19,7 @@
 
 	<servlet-mapping>
 		<servlet-name>hello-dispatcher</servlet-name>
-		<url-pattern>/java-web-app/*</url-pattern>
+		<url-pattern>/java-web-app-docker/*</url-pattern>
 	</servlet-mapping>
 
 	<!-- For root context -->
